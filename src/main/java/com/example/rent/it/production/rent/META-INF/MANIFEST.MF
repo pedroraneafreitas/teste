@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: com.example.rent.it.Application
+Class-Path: C:\Users\pefreitas\Desktop\Sptech\teste\teste\src\main\java\
+ com\example\rent\it\Application.java
+
