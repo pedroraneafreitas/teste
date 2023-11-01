@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: C:\Users\pefreitas\Desktop\Sptech\teste\teste\src\main\java\
- com\example\rent\it\Application.java
-
