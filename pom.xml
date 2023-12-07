@@ -20,6 +20,7 @@
 		<spring-cloud.version>2022.0.3</spring-cloud.version>
 
 		<start-class>com.example.rent.it.Application</start-class>
+		<start-class>com.baeldung.ssl.HttpsEnabledApplication</start-class>
 
 	</properties>
 	<dependencies>
